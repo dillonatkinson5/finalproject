@@ -1,0 +1,72 @@
+
+.header{
+    background-color: black;
+    color: white;
+    text-align: center;
+    border: 5px solid white;
+    
+}
+.anchor{
+    color: black;
+    text-align: center;
+}
+.paragraph{ font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+text-align: center;
+border: 5px solid;
+    
+
+}
+.youtube{
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.tableau{
+    text-align: center;
+    
+
+}
+.family{
+    font-size: 50px;
+    text-align: center;
+    background-color: white;
+    color: purple;
+}
+.end{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+.linkedin{
+    text-align: center;
+}
+.education{
+    text-underline-position: below;
+}
+.image{
+    text-align: center;
+}
+.education{
+    text-align: center;
+}
+.education2{
+    text-align: center;
+}
+.ownership{
+    text-align: center;
+    font-size: 50px;
+
+}
+.footer{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.backtohome{
+    text-align: center;
+}
+
+.dillonsheader{
+    color: white;
+}
+.dillonsheaderr{
+    color: black;
+    text-align: center;
+}
