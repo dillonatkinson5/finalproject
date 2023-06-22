@@ -40,6 +40,7 @@ border: 5px solid;
 }
 .education{
     text-underline-position: below;
+    list-style-position:inside;
 }
 .image{
     text-align: center;
