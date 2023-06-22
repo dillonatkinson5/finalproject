@@ -71,10 +71,11 @@ list-style-position:inside;}
     font-family: Georgia, 'Times New Roman', Times, serif;
     list-style-position:inside;
 }
-.backtohome{
+.backtohome
+    display: block;
+    justify-content: center;
     text-align: center;
 
-    position: fixed;
 
 }
 
