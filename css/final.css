@@ -23,10 +23,10 @@ list-style-position: inside;
 .youtube{
     text-align: center;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-}
+list-style-position:inside;}
 .tableau{
     text-align: center;
-    
+    list-style-position:inside;
 
 }
 .family{
@@ -38,6 +38,7 @@ list-style-position: inside;
 .end{
     text-align: center;
     font-family: 'Times New Roman', Times, serif;
+    list-style-position:inside;
 }
 .linkedin{
     text-align: center;
@@ -53,13 +54,16 @@ list-style-position: inside;
 }
 .education{
     text-align: center;
+    list-style-position:inside;
 }
 .education2{
     text-align: center;
+    list-style-position:inside;
 }
 .ownership{
     text-align: center;
     font-size: 50px;
+    list-style-position:inside;
 
 }
 .footer{
@@ -69,12 +73,16 @@ list-style-position: inside;
 }
 .backtohome{
     text-align: center;
+    list-style-position:inside;
 }
 
 .dillonsheader{
     color: white;
+    list-style-position:inside;
+    list-style-position:inside;
 }
 .dillonsheaderr{
     color: black;
     text-align: center;
+    list-style-position:inside;
 }
