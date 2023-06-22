@@ -73,8 +73,9 @@ list-style-position:inside;}
 }
 .backtohome{
     text-align: center;
-    position: fixed;
     list-style-position:inside;
+    position: fixed;
+
 }
 
 .dillonsheader{
